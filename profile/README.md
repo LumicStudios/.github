@@ -6,7 +6,7 @@
 
 ## Proyectos Actuales
 
-### <img src="/Recursos/aeon-logo.png" width="30"> Aeon Odyssey 
+### <img src="/Recursos/aeon-logo.png" width="40"> Aeon Odyssey 
 🕹️ Nuestro MMORPG de fantasía de mundo abierto.
 
 - 🔧 Tecnologías utilizadas: [Tecnología1](https://enlace1.com), [Tecnología2](https://enlace2.com)
