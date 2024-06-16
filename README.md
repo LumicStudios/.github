@@ -1,12 +1,12 @@
 [![Banner de LumicStudios](/Recursos/lumic-banner.gif)](https://www.lumicstudios.com)
 
-# <img src="url_del_mini_logo.png" width="30"> LumicStudios <img src="/Recursos/red-check.png" width="15">
+# <img src=Recursos/lumic-logo.png" width="30"> LumicStudios <img src="/Recursos/red-check.png" width="20">
 
 🎮 Bienvenido al repositorio de LumicStudios, donde creamos juegos y más. Aquí encontrarás información sobre nuestros proyectos actuales, editores de código preferidos, los lenguajes de programación que utilizamos, cómo contribuir y contactarnos. 
 
 ## Proyectos Actuales
 
-### Aeon Odyssey 
+### <img src="/Recursos/aeon-logo.png" width="30"> Aeon Odyssey 
 🕹️ Nuestro MMORPG de fantasía de mundo abierto.
 
 - 🔧 Tecnologías utilizadas: [Tecnología1](https://enlace1.com), [Tecnología2](https://enlace2.com)
