@@ -1,8 +1,8 @@
 [![Banner de LumicStudios](url_del_banner.png)](https://www.lumicstudios.com)
 
-# LumicStudios <img src="url_del_mini_logo.png" width="30">
+# <img src="url_del_mini_logo.png" width="30"> LumicStudios <img src="/Recursos/red-check.png" width="15">
 
-🎮 Bienvenido al repositorio de LumicStudios, donde creamos juegos y más. Aquí encontrarás información sobre nuestros proyectos actuales, editores de código preferidos, los lenguajes de programación que utilizamos, cómo contribuir y contactarnos. <img src="url_del_check_verificado.png" width="15">
+🎮 Bienvenido al repositorio de LumicStudios, donde creamos juegos y más. Aquí encontrarás información sobre nuestros proyectos actuales, editores de código preferidos, los lenguajes de programación que utilizamos, cómo contribuir y contactarnos. 
 
 ## Proyectos Actuales
 
