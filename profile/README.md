@@ -11,7 +11,7 @@
 
 - 🔧 Tecnologías utilizadas: [Tecnología1](https://enlace1.com), [Tecnología2](https://enlace2.com)
 - 🌟 Características destacadas: 
-- 📋 Estado: [![In Dev](https://img.shields.io/badge/INDEV-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) / [![Maintenance](https://img.shields.io/badge/Maintainance-not-red.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) / [![Finished](https://img.shields.io/badge/Finished-not-red.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+- 📋 Estado: [![In Dev](https://img.shields.io/badge/In_Dev-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) / [![Maintenance](https://img.shields.io/badge/Maintenance-not-red.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) / [![Finished](https://img.shields.io/badge/Finished-not-red.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
 ## Editores de Código Preferidos
 
