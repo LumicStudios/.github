@@ -1,6 +1,6 @@
 [![Banner de LumicStudios](/Recursos/lumic-banner.gif)](https://www.lumicstudios.com)
 
-# <img src="Recursos/lumic-logo.png" width="30"> LumicStudios <img src="/Recursos/red-check.png" width="20">
+# <img src="/Recursos/lumic-logo.png" width="30"> LumicStudios <img src="/Recursos/red-check.png" width="20">
 
 🎮 Bienvenido al repositorio de LumicStudios, donde creamos juegos y más. Aquí encontrarás información sobre nuestros proyectos actuales, editores de código preferidos, los lenguajes de programación que utilizamos, cómo contribuir y contactarnos. 
 
