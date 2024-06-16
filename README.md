@@ -1,4 +1,4 @@
-[![Banner de LumicStudios](url_del_banner.png)](https://www.lumicstudios.com)
+[![Banner de LumicStudios](/Recursos/lumic-banner.gif)](https://www.lumicstudios.com)
 
 # <img src="url_del_mini_logo.png" width="30"> LumicStudios <img src="/Recursos/red-check.png" width="15">
 
