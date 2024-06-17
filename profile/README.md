@@ -6,7 +6,7 @@
 
 ## Proyectos Actuales
 
-### <img src="/Recursos/aeon-logo.png" width="40"> Aeon Odyssey <img src="/Recursos/green-check.png" width="40"> • [![Versión](https://img.shields.io/badge/Version-0.0.1-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+### <img src="/Recursos/aeon-logo.png" width="20"> Aeon Odyssey <img src="/Recursos/green-check.png" width="40"> • [![Versión](https://img.shields.io/badge/Version-0.0.1-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 🕹️ Nuestro MMORPG de fantasía de mundo abierto.
 
 - 🔧 Tecnologías utilizadas:
