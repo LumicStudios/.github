@@ -9,7 +9,9 @@
 ### <img src="/Recursos/aeon-logo.png" width="40"> Aeon Odyssey 
 🕹️ Nuestro MMORPG de fantasía de mundo abierto.
 
-- 🔧 Tecnologías utilizadas: [Tecnología1](https://enlace1.com), [Tecnología2](https://enlace2.com)
+- 🔧 Tecnologías utilizadas:
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-unity.svg)](https://www.unity.com/)
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-vscode.svg)](https://code.visualstudio.com)
 - 🌟 Características destacadas: 
 - 📋 Estado: [![In Dev](https://img.shields.io/badge/In_Dev-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) / [![Maintenance](https://img.shields.io/badge/Maintenance-not-red.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) / [![Finished](https://img.shields.io/badge/Finished-not-red.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
