@@ -6,21 +6,24 @@
 
 ## Proyectos Actuales
 
-### <img src="/Recursos/aeon-logo.png" width="40"> Aeon Odyssey 
+### <img src="/Recursos/aeon-logo.png" width="40"> Aeon Odyssey [![Versión](https://img.shields.io/badge/Version_0.0.1-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 🕹️ Nuestro MMORPG de fantasía de mundo abierto.
 
 - 🔧 Tecnologías utilizadas:
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-unity.svg)](https://www.unity.com/)
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-vscode.svg)](https://code.visualstudio.com)
+  
+[![VsCode](https://img.shields.io/badge/Made_With_VsCode-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) 
+
+[![Unity](https://img.shields.io/badge/Made_With_Unity-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+  
 - 🌟 Características destacadas: 
-- 📋 Estado: [![In Dev](https://img.shields.io/badge/In_Dev-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) / [![Maintenance](https://img.shields.io/badge/Maintenance-not-red.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) / [![Finished](https://img.shields.io/badge/Finished-not-red.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+- 📋 Estado: [![In Dev](https://img.shields.io/badge/In_Dev-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
 ## Editores de Código Preferidos
 
 🛠️ En LumicStudios preferimos los siguientes editores de código:
 
 - Visual Studio Code
-- Sublime Text
+- Visual Studio
 - IntelliJ IDEA
 
 ## Lenguajes de Programación
@@ -46,9 +49,9 @@
 
 📧 Puedes contactarnos a través de los siguientes medios:
 
-- Email: contact@lumicstudios.com
-- Twitter: [@LumicStudios](https://twitter.com/LumicStudios)
-- Sitio web: [www.lumicstudios.com](https://www.lumicstudios.com)
+- Email: contact@lumicstudios.com [![Email Status](https://img.shields.io/badge/Email_Status-red.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+- Twitter: [@LumicStudios](https://twitter.com/LumicStudios) [![Twitter Status](https://img.shields.io/badge/Twitter_Status_NONE-red.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+- Sitio web: [www.lumicstudios.com](https://www.lumicstudios.com) [![Website fakesite.invalid](https://img.shields.io/website-up-down-green-red/http/fakesite.invalid.svg)](http://fakesite.invalid/)
 
 ---
 
