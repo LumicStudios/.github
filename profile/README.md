@@ -49,7 +49,7 @@
 
 📧 Puedes contactarnos a través de los siguientes medios:
 
-- Email: contact@lumicstudios.com [![Email Status](https://img.shields.io/badge/Email_Status -None-red.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+- Email: contact@lumicstudios.com [![Email Status](https://img.shields.io/badge/Email_Status-None-red.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 - Twitter: [@LumicStudios](https://twitter.com/LumicStudios) [![Twitter Status](https://img.shields.io/badge/Twitter_Status-None-red.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 - Sitio web: [www.lumicstudios.com](https://www.lumicstudios.com) [![Website fakesite.invalid](https://img.shields.io/website-up-down-green-red/http/fakesite.invalid.svg)](http://fakesite.invalid/)
 
