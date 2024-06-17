@@ -6,14 +6,14 @@
 
 ## Proyectos Actuales
 
-### <img src="/Recursos/aeon-logo.png" width="40"> Aeon Odyssey [![Versión](https://img.shields.io/badge/Version-0.0.1-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+### <img src="/Recursos/aeon-logo.png" width="40"> Aeon Odyssey <img src="/Recursos/green-check.png" width="40"> • [![Versión](https://img.shields.io/badge/Version-0.0.1-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 🕹️ Nuestro MMORPG de fantasía de mundo abierto.
 
 - 🔧 Tecnologías utilizadas:
   
-[![VsCode](https://img.shields.io/badge/Made_With-VsCode-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) 
+   [![VsCode](https://img.shields.io/badge/Made_With-VsCode-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) 
 
-[![Unity](https://img.shields.io/badge/Made_With-Unity-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+   [![Unity](https://img.shields.io/badge/Made_With-Unity-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
   
 - 🌟 Características destacadas: 
 - 📋 Estado: [![In Dev](https://img.shields.io/badge/In_Dev-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
