@@ -6,14 +6,14 @@
 
 ## Proyectos Actuales
 
-### <img src="/Recursos/aeon-logo.png" width="40"> Aeon Odyssey [![Versión](https://img.shields.io/badge/Version_0.0.1-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+### <img src="/Recursos/aeon-logo.png" width="40"> Aeon Odyssey [![Versión](https://img.shields.io/badge/Version-0.0.1-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 🕹️ Nuestro MMORPG de fantasía de mundo abierto.
 
 - 🔧 Tecnologías utilizadas:
   
-[![VsCode](https://img.shields.io/badge/Made_With_VsCode-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) 
+[![VsCode](https://img.shields.io/badge/Made_With-VsCode-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) 
 
-[![Unity](https://img.shields.io/badge/Made_With_Unity-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+[![Unity](https://img.shields.io/badge/Made_With-Unity-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
   
 - 🌟 Características destacadas: 
 - 📋 Estado: [![In Dev](https://img.shields.io/badge/In_Dev-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
@@ -49,8 +49,8 @@
 
 📧 Puedes contactarnos a través de los siguientes medios:
 
-- Email: contact@lumicstudios.com [![Email Status](https://img.shields.io/badge/Email_Status-red.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
-- Twitter: [@LumicStudios](https://twitter.com/LumicStudios) [![Twitter Status](https://img.shields.io/badge/Twitter_Status_NONE-red.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+- Email: contact@lumicstudios.com [![Email Status](https://img.shields.io/badge/Email_Status -None-red.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+- Twitter: [@LumicStudios](https://twitter.com/LumicStudios) [![Twitter Status](https://img.shields.io/badge/Twitter_Status-None-red.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 - Sitio web: [www.lumicstudios.com](https://www.lumicstudios.com) [![Website fakesite.invalid](https://img.shields.io/website-up-down-green-red/http/fakesite.invalid.svg)](http://fakesite.invalid/)
 
 ---
